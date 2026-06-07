@@ -29,9 +29,10 @@
 
 ## 🚀 Featured Projects
 
-- 🎮 **Indie Fighter** – Unity-based immersive game experience
-- 📱 **Phone Controller** – Control system built with C# and .NET
-- 🤖 **NexGen** – Exploring Generative AI applications
+- 🎮 Coin Rush – Published Unity 3D Coin Collection Game
+- 📱 Phone Controller – Cross-device Controller System using .NET & C#
+- 🎮 Indie Fighter – In Development
+- 🤖 NexGen – Generative AI Experiments
 
 ---
 
