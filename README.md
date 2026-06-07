@@ -156,11 +156,3 @@
 ✨ *"Turning imagination into interactive digital experiences."* ✨
 
 </div>
-
----
-
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?username=Suryansh1483&label=Profile%20Views&color=0e75b6&style=flat)
-
-</div>
