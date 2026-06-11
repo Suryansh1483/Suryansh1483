@@ -1,42 +1,82 @@
-# Hey there 👋, I'm SURYANSH PATEL
+# Hey there 👋, I'm Suryansh Patel
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Game+Developer;AR%2FVR+Explorer;Web+%26+App+Developer;Learning+Gen+AI+%26+.NET" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Unity+Game+Developer;C%23+Developer;AR%2FVR+Developer;Building+Games+with+Unity" alt="Typing SVG" />
 </p>
 
 <div align="center">
 
-🚀 Developer by passion | 💻 Building interactive digital experiences | 🌱 Continuously learning, improving, and innovating
+🎮 Unity Game Developer • 🥽 AR/VR Developer • 💻 C# Developer
+
+Building gameplay systems, interactive experiences, and immersive applications using Unity.
 
 </div>
 
 ---
 
-<br>
-
 ## 👨‍💻 About Me
 
-- 🎓 Currently studying: **B.Tech (Information Technology)**
-- 💡 Interested in: **Game & AR/VR Development with Unity, Web & App Development, and Gen AI**
-- 🔭 Currently building: **A Phone Controller System using .NET and C#**
-- 🌱 Learning: **C#, .NET, and Advanced Development Concepts**
-- 🤝 Looking to collaborate on: **Open Source, Creative Projects, and Innovative Tech Ideas**
-- ⚡ Fun fact: **I love turning creative ideas into interactive experiences with code**
+* 🎓 B.Tech Information Technology Student
+* 🎮 Unity Game Developer focused on gameplay programming and game systems
+* 🥽 Experienced with AR Foundation, Vuforia, and image-tracking applications
+* 🔭 Currently building **Indie Fighter**, a 3D India-inspired fighting game
+* 🌱 Exploring advanced Unity systems, game architecture, and multiplayer concepts
+* 🤝 Open to Unity, AR/VR, and Game Development collaborations
 
 ---
 
+## 🚀 Projects
+
+### 🎮 Coin Rush
+
+Released third-person 3D adventure game built with Unity 6.
+
+**Highlights**
+
+* Health System
+* Fire Hazard Mechanics
+* Leaderboard System
+* Save Data using PlayerPrefs
+* Audio & Settings Management
+
+### 🌾 Math Farmer
+
+Released educational farming game built with Unity.
+
+**Highlights**
+
+* Educational Gameplay Loop
+* Crop Growth System
+* Coin Economy
+* Dynamic Difficulty
+* Save & Statistics System
+
+### 📱 Phone Controller
+
+Cross-device controller system built using .NET and C# that transforms a smartphone into a wireless input device for PC applications and games.
+
+**Highlights**
+
+* Real-time device communication
+* Custom virtual controls
+* Cross-device connectivity
+* .NET Networking
+* C# Application Development
+
+### 🥊 Indie Fighter (Ongoing)
+
+India-inspired 3D fighting game.
+
+**Currently Building**
+
+* Combo System
+* Arena Combat
+* Character Selection
+* Hit Detection
+* Modular Combat Architecture
+  
 <br>
-
-## 🚀 Featured Projects
-
-- 🎮 Coin Rush – Published Unity 3D Coin Collection Game
-- 📱 Phone Controller – Cross-device Controller System using .NET & C#
-- 🎮 Indie Fighter – In Development
-- 🤖 NexGen – Generative AI Experiments
-
 ---
-
-<br>
 
 ## 🌐 Socials
 
@@ -65,34 +105,36 @@
 
 <br>
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+### 🎮 Game Development
 
-### Development
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
 
-### Cloud & Database
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 🥽 AR / VR
+
+![AR Foundation](https://img.shields.io/badge/AR%20Foundation-000000?style=for-the-badge)
+![Vuforia](https://img.shields.io/badge/Vuforia-00549F?style=for-the-badge)
+
+### ⚙️ Unity Systems
+
+* Unity UI
+* Animator
+* Cinemachine
+* Input System
+* Physics
+* NavMesh
+* Particle Systems
+* Scene Management
+* PlayerPrefs
 
 ### Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge\&logo=visual-studio\&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -107,26 +149,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Suryansh1483&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
----
-
-<br>
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suryansh1483&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-<br>
-
-# 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Suryansh1483&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 ---
@@ -150,6 +172,13 @@
 ---
 
 <br>
+
+<div align="center">
+
+### 🎮 Building Games • Learning Every Day • Shipping Projects
+
+</div>
+
 
 <div align="center">
 
